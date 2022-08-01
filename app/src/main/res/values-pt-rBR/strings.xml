@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"> App de Cartão de visitas</string>
+    <string name="label_business_card">Cartão de visitas</string>
+    <string name="label_description_new_card">Novo Cartão</string>
+    <string name="label_nome">Nome</string>
+    <string name="label_phone">Telefone</string>
+    <string name="label_company">Company</string>
+    <string name="label_color">Color</string>
+    <string name="label_confirm">Confirm</string>
+    <string name="cd_close">close screen button</string>
+    <string name="label_show_sucess">Cartão cadastrado com sucesso</string>
+    <string name="label_share">Compartilhar</string>
+</resources>
